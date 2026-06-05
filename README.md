@@ -1,5 +1,11 @@
 # Credit Scoring Model Using Machine Learning
 
+Author
+Iswarya Tirumalapalli
+
+Internship
+CodeAlpha Machine Learning Internship
+
 ## Project Overview
 
 This project predicts an individual's creditworthiness using historical financial information and machine learning techniques. The model analyzes factors such as income, loan amount, credit history, education, employment status, and property area to determine whether a loan application is likely to be approved.
