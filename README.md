@@ -1,9 +1,9 @@
 # Credit Scoring Model Using Machine Learning
 
-Author
+# Author
 Iswarya Tirumalapalli
 
-Internship
+# Internship
 CodeAlpha Machine Learning Internship
 
 ## Project Overview
